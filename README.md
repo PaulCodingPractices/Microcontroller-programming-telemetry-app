@@ -1,1 +1,3 @@
 # Microcontroller-programming-telemetry-app
+
+in this repo i will place modularized code for microcontroller programming as well as the fina project which will be the exemplary usecase for each created module , the task is planned throughout 2 weeks of work , end goal is a simple microcontroler project controlling the temperature through regulation process and allowing user to customize parts of the setup through the telemetry app, if possible i'd like to create additional , advanced user experience for people knowledgable in the subject though that's the endgame project part that goes out of the scope of two weeks time
